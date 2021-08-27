@@ -1,5 +1,3 @@
-# Pepsi 
+This is Pepsi Landingpage project development by me
 
-# Redesign by Nguyen Quoc Hieu
-
-URL: https://quochieu2k.github.io/Pepsi/
+Detail: https://quochieu2k.github.io/Pepsi/
